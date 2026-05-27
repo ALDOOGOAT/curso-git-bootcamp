@@ -12,6 +12,10 @@ Recomendacion: usa un usuario profesional. Ese perfil puede terminar en tu CV.
 
 ## 2. Git instalado
 
+Si todavia no tienes Git, sigue primero la guia completa:
+
+[Configurar Git en tu entorno](configurar-git.md)
+
 En terminal:
 
 ```bash

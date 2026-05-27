@@ -40,6 +40,7 @@ No hay dependencias, build, servidor ni instalacion de frameworks. Solo HTML, CS
 ## Material incluido
 
 - [Checklist previa](docs/checklist-previa.md): lo que deben tener instalado antes del curso.
+- [Configurar Git](docs/configurar-git.md): instalacion y configuracion para Windows, Linux y macOS.
 - [Guion del instructor](docs/guion-instructor.md): estructura minuto a minuto y frases sugeridas.
 - [Comandos esenciales](docs/comandos-esenciales.md): acordeon de comandos que si van a usar.
 - [Flujo Fork + Pull Request](docs/flujo-fork-pr.md): practica principal del curso.
