@@ -10,11 +10,13 @@ Thumbs.db
 
 # Xcode y Swift
 .build/
+.swiftpm/
 DerivedData/
 *.xcuserstate
 xcuserdata/
 *.xcworkspace/xcuserdata/
 *.xcodeproj/xcuserdata/
+*.playground/xcuserdata/
 
 # Dependencias y builds comunes
 node_modules/

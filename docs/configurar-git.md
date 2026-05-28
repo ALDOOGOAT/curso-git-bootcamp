@@ -4,6 +4,8 @@ Esta guia deja tu computadora lista para usar Git y GitHub durante el curso.
 
 Haz los pasos de tu sistema operativo y al final ejecuta la prueba completa.
 
+Para el iOS Lab, los alumnos usaran macOS con Xcode ya configurado. Las secciones de Windows y Linux quedan como referencia general para Git, pero el ejercicio Swift del curso se valida en Mac/Xcode.
+
 ## 1. Instalar Git
 
 ### Windows
@@ -223,6 +225,8 @@ Antes del curso debes poder ejecutar sin errores:
 
 ```bash
 git --version
+swift --version
+xcode-select -p
 git config --global user.name
 git config --global user.email
 git config --global init.defaultBranch

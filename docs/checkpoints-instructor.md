@@ -10,6 +10,7 @@ Debes tener listo:
 - URL visible para todos.
 - `Package.swift` abierto en Xcode.
 - `Sources/IOSLaunchLab/main.swift` abierto.
+- `docs/flujo-ponente.md` abierto.
 - `docs/flujo-alumno.md` abierto.
 - GitHub autenticado en tu maquina.
 - Una forma rapida de compartir el link del repo.

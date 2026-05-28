@@ -50,17 +50,21 @@ El programa imprime un tablero de ideas en terminal. Se puede abrir en Xcode des
 swift run
 ```
 
+Se usa Swift Package, no una app iOS completa, para evitar ruido de firmas, simuladores, assets o archivos `project.pbxproj`. La clase se enfoca en Git, GitHub y Swift editado desde Xcode.
+
 ## Material incluido
 
 - [Checklist previa](docs/checklist-previa.md): lo que deben tener instalado antes del curso.
 - [Configurar Git](docs/configurar-git.md): instalacion y configuracion para Windows, Linux y macOS.
 - [Guion del instructor](docs/guion-instructor.md): estructura minuto a minuto y frases sugeridas.
+- [Flujo del ponente](docs/flujo-ponente.md): version compacta para explicar el curso en vivo.
 - [Comandos esenciales](docs/comandos-esenciales.md): acordeon de comandos que si van a usar.
 - [Flujo del alumno](docs/flujo-alumno.md): pasos exactos que cada alumno debe seguir de inicio a fin.
 - [Flujo Fork + Pull Request](docs/flujo-fork-pr.md): practica principal del curso.
 - [Conflictos](docs/conflictos.md): laboratorio de conflicto controlado.
 - [Errores comunes](docs/errores-comunes.md): problemas esperados y como resolverlos rapido.
 - [Checkpoints del instructor](docs/checkpoints-instructor.md): puntos de control por minuto para no perder el ritmo.
+- [Verificacion del laboratorio](docs/verificacion-lab.md): prueba rapida en una Mac con Xcode antes del curso.
 - [Buenas practicas](docs/buenas-practicas.md): reglas para trabajar bien desde el inicio.
 - [Plantilla Swift](docs/plantilla-tarjeta.md): snippet `AppIdea` que los alumnos pueden adaptar.
 
