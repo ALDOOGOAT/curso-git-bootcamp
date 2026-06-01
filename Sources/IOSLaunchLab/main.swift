@@ -24,6 +24,7 @@ var ideas: [AppIdea] = [
 
 // ALUMNOS: agreguen su AppIdea debajo de este comentario.
 
+
 func renderLaunchBoard(_ ideas: [AppIdea]) {
     print("🚀 ============================================== 🚀")
     print("📱             iOS Launch Lab                   📱")
