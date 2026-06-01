@@ -90,7 +90,18 @@ cd curso-git-bootcamp
 swift run
 ```
 
-Despues siguen [docs/flujo-alumno.md](docs/flujo-alumno.md).
+Despues siguen [docs/estudiante/flujo-alumno.md](docs/estudiante/flujo-alumno.md).
+
+## Frase clave del curso
+
+Ante la duda:
+
+```bash
+git status
+```
+
+`git status` es el radar. Les dice donde estan parados antes de tocar algo.
+lujo-alumno.md](docs/flujo-alumno.md).
 
 ## Frase clave del curso
 

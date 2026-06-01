@@ -12,7 +12,7 @@ Ten listo:
 - URL del repo en una diapositiva o pizarron.
 - `Package.swift` abierto en Xcode.
 - `Sources/IOSLaunchLab/main.swift` abierto.
-- `docs/flujo-ponente.md` abierto como acordeon.
+- `docs/instructor/flujo-ponente.md` abierto como acordeon.
 - GitHub abierto en navegador.
 - Una rama de prueba para demostrar errores si hace falta.
 
@@ -242,6 +242,6 @@ Frases finales:
 
 ## Manejo de problemas frecuentes
 
-Usa [errores-comunes.md](errores-comunes.md) si alguien se atora con autenticacion, ramas, `swift run`, upstream o conflictos.
+Usa [errores-comunes.md](../estudiante/errores-comunes.md) si alguien se atora con autenticacion, ramas, `swift run`, upstream o conflictos.
 
 Para la version compacta del flujo en vivo, usa [flujo-ponente.md](flujo-ponente.md).

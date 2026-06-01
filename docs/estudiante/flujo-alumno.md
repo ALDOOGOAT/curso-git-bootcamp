@@ -102,16 +102,18 @@ Si ves archivos que no querias cambiar, avisa antes de hacer commit.
 
 ## 7. Crear commit
 
+Usaremos un estandar de la industria llamado "Conventional Commits" o Commits Semanticos:
+
 ```bash
 git add Sources/IOSLaunchLab/main.swift
-git commit -m "Agrega idea iOS de Nombre Apellido"
+git commit -m "feat: agrega idea iOS de Nombre Apellido"
 git log --oneline
 ```
 
 Ejemplo:
 
 ```bash
-git commit -m "Agrega idea iOS de Ana Ramirez"
+git commit -m "feat: agrega idea iOS de Ana Ramirez"
 ```
 
 ## 8. Subir tu rama
